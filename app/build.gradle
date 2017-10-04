@@ -36,6 +36,17 @@ android {
         }
 
     }
+    productFlavors {
+        red {
+
+        }
+        green {
+
+        }
+        yellow {
+
+        }
+    }
 
 }
 
